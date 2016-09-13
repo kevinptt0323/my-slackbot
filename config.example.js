@@ -1,7 +1,7 @@
 const config = {
   bot: {
-    token: '123',
-    name: 'slackbot'
+    token: 'API Token',
+    name: 'Bot\'s Name'
   }
 };
 
